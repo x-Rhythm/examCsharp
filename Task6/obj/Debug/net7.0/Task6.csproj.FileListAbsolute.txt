@@ -1,0 +1,15 @@
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/bin/Debug/net7.0/Task6
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/bin/Debug/net7.0/Task6.deps.json
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/bin/Debug/net7.0/Task6.runtimeconfig.json
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/bin/Debug/net7.0/Task6.dll
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/bin/Debug/net7.0/Task6.pdb
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.csproj.AssemblyReference.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.AssemblyInfoInputs.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.AssemblyInfo.cs
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.csproj.CoreCompileInputs.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.dll
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/refint/Task6.dll
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.pdb
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/Task6.genruntimeconfig.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/Task6/obj/Debug/net7.0/ref/Task6.dll

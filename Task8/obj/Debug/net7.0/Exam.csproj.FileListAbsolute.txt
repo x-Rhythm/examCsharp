@@ -1,0 +1,15 @@
+/Users/ulugbekgafurov/Desktop/C#/Exam/bin/Debug/net7.0/Exam
+/Users/ulugbekgafurov/Desktop/C#/Exam/bin/Debug/net7.0/Exam.deps.json
+/Users/ulugbekgafurov/Desktop/C#/Exam/bin/Debug/net7.0/Exam.runtimeconfig.json
+/Users/ulugbekgafurov/Desktop/C#/Exam/bin/Debug/net7.0/Exam.dll
+/Users/ulugbekgafurov/Desktop/C#/Exam/bin/Debug/net7.0/Exam.pdb
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.csproj.AssemblyReference.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.AssemblyInfoInputs.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.AssemblyInfo.cs
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.csproj.CoreCompileInputs.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.dll
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/refint/Exam.dll
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.pdb
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/Exam.genruntimeconfig.cache
+/Users/ulugbekgafurov/Desktop/C#/Exam/obj/Debug/net7.0/ref/Exam.dll
